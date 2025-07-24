@@ -37,6 +37,8 @@ local Window = Rayfield:CreateWindow({
    }
 })
 
+local Tab = Window:CreateTab("Tab Example", 4483362458) -- Title, Image
+
 local Button = Tab:CreateButton({
    Name = "Button Example",
    Callback = function()
