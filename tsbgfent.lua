@@ -42,6 +42,6 @@ local Tab = Window:CreateTab("tsbg fenthub script", 4483362458) -- Title, Image
 local Button = Tab:CreateButton({
    Name = "Load tsbg script",
    Callback = function()
-   loadstring(game:HttpGet("https://raw.githubusercontent.com/p7reeessssssxxxx/script-v3/refs/heads/main/fenthubbloxfruit.lua"))()
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/p7reeessssssxxxx/script-v3/refs/heads/main/423.lua"))()
    end,
 })
