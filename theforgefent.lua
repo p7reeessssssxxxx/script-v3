@@ -42,6 +42,6 @@ local Tab = Window:CreateTab("The forge script", 4483362458) -- Title, Image
 local Button = Tab:CreateButton({
    Name = "Load The forge script",
    Callback = function()
-   loadstring(game:HttpGet("https://raw.githubusercontent.com/p7reeessssssxxxx/script-v3/refs/heads/main/423.lua"))()
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/p7reeessssssxxxx/script-v3/refs/heads/main/forge.lua"))()
    end,
 })
