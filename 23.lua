@@ -1,10 +1,5 @@
 --[[
-    scoot ui library
-    made by MjContigazxc 
-    
-
-    This Is Sick Ui
-    date: Nov/03/2025
+calm down G
 ]]
 
 if Library then
